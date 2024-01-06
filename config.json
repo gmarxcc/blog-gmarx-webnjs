@@ -1,0 +1,72 @@
+{
+  "*": {
+    "auto-switch-themes": {},
+    "core": {
+      "db": {
+        "machineId": "o4NfoN5xl"
+      },
+      "devMode": true,
+      "disabledPackages": [
+        "code-fold"
+      ],
+      "lastNavigationState": {
+        "editingNoteId": "note:pJtar2N68",
+        "queryContext": {
+          "bookId": "book:cHjN41TiW",
+          "filterKeyword": "",
+          "includeChildren": false,
+          "mode": "book"
+        },
+        "sidebar": {
+          "workspace": {
+            "visible": false
+          }
+        }
+      },
+      "mainWindow": {
+        "acrylicEnabled": true,
+        "fullscreen": false,
+        "hiddenComponents": {
+          "sidebar-menu": [
+            "SideBarMenuTagList"
+          ]
+        },
+        "maximized": true,
+        "noteListBar": {
+          "w": 243
+        },
+        "position": {
+          "x": 524,
+          "y": -198
+        },
+        "sideBar": {
+          "collapsedBooks": [
+            "book:kHh1husul",
+            "book:PvFGrOrK-",
+            "book:QibH6yPFu"
+          ]
+        },
+        "size": {
+          "h": 944,
+          "w": 1512
+        }
+      },
+      "server": {
+        "auth": {
+          "password": "bar",
+          "username": "foo"
+        },
+        "bindAddress": "127.0.0.1",
+        "enabled": true,
+        "port": 19840
+      }
+    },
+    "editor": {
+      "fontSize": 24,
+      "lineNumbers": true,
+      "styleActiveLine": true,
+      "viewMode": "edit"
+    },
+    "spell-checker": {}
+  }
+}
