@@ -18,7 +18,7 @@ export default function DropdownMenuItem({ href, children }: Props) {
           href={href}
           className={classNames(
             active ? 'bg-orange-200 dark:bg-zinc-500' : '',
-            'block px-4 py-2 text-sm'
+            'block px-6 py-2 text-sm'
           )}
         >
           {children}
